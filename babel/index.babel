@@ -61,7 +61,8 @@ class TextScramble {
 // ——————————————————————————————————————————————————
 
 const phrases = [
-  'CDO MoneyScents,',
+  'Athlete',
+  'CDO MoneyScents',
   'Keyboard Enthusiast',
   'Big Brother',
   'Nerd',
