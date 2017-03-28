@@ -61,17 +61,21 @@ class TextScramble {
 // ——————————————————————————————————————————————————
 
 const phrases = [
-  'Athlete',
   'CDO MoneyScents',
   'Keyboard Enthusiast',
   'Big Brother',
-  'Nerd',
+  'Loyal Friend',
+  'Artist',
   'Pianist',
-  'Student at UTS',
+  'UTS Student',
+  'Leader',
+  'Nerd',
+  'Athlete',
+  'Hacker',
   'Thinker',
+  'Tinkerer',
   'Dreamer',
-  'Achiever'
-  
+  'Achiever !'  
 ]
 
 const el = document.querySelector('.text')
