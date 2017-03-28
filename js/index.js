@@ -96,7 +96,7 @@ var phrases = [
   'Thinker',
   'Tinkerer',
   'Dreamer',
-  'Achiever !'];
+  'Achiever!'];
 
 var el = document.querySelector('.text');
 var fx = new TextScramble(el);
