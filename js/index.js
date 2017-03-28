@@ -85,15 +85,18 @@ var phrases = [
   'CDO MoneyScents',
   'Keyboard Enthusiast',
   'Big Brother',
+  'Loyal Friend',
   'Artist',
   'Pianist',
   'UTS Student',
-  'Athlete',
+  'Leader',
   'Nerd',
+  'Athlete',
   'Hacker',
   'Thinker',
+  'Tinkerer',
   'Dreamer',
-  'Achiever!'];
+  'Achiever !'];
 
 var el = document.querySelector('.text');
 var fx = new TextScramble(el);
