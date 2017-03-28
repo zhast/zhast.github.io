@@ -81,7 +81,17 @@ var TextScramble = function () {
 // Example
 // ——————————————————————————————————————————————————
 
-var phrases = ['Neo,', 'sooner or later', 'you\'re going to realize', 'just as I did', 'that there\'s a difference', 'between knowing the path', 'and walking the path'];
+var phrases = [
+  'Athlete',
+  'CDO MoneyScents',
+  'Keyboard Enthusiast',
+  'Big Brother',
+  'Nerd',
+  'Pianist',
+  'Student at UTS',
+  'Thinker',
+  'Dreamer',
+  'Achiever'];
 
 var el = document.querySelector('.text');
 var fx = new TextScramble(el);
