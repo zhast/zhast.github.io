@@ -82,7 +82,7 @@ var TextScramble = function () {
 // ——————————————————————————————————————————————————
 
 var phrases = [
-  'CDO MoneyScents',
+  'CTO MoneyScents',
   'Keyboard Enthusiast',
   'Big Brother',
   'Loyal Friend',
