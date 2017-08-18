@@ -1,2 +1,4 @@
 # zhast.github.io
-Who am I? Who are you? Who is Steven? Time to find out!
+Hey, I'm Steven. 
+Feel free to explore my website. 
+You can learn more about me by clicking on the links in my website!
