@@ -82,10 +82,9 @@ var TextScramble = function () {
 // ——————————————————————————————————————————————————
 
 var phrases = [
-  'CTO MoneyScents',
+  'CTO MoneySmarts',
   'Keyboard Enthusiast',
   'Big Brother',
-  'Loyal Friend',
   'Artist',
   'Pianist',
   'UTS Student',
@@ -93,10 +92,9 @@ var phrases = [
   'Nerd',
   'Athlete',
   'Hacker',
-  'Thinker',
   'Tinkerer',
-  'Dreamer',
-  'Achiever!'];
+  'Hustler',
+  'Achiever'];
 
 var el = document.querySelector('.text');
 var fx = new TextScramble(el);
