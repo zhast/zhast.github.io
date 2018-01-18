@@ -94,7 +94,7 @@ var phrases = [
   'Hacker',
   'Tinkerer',
   'Hustler',
-  'Achiever'];
+  'Single'];
 
 var el = document.querySelector('.text');
 var fx = new TextScramble(el);
