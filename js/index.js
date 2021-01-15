@@ -77,24 +77,18 @@ var TextScramble = function () {
   return TextScramble;
 }();
 
-// ——————————————————————————————————————————————————
-// Example
-// ——————————————————————————————————————————————————
-
 var phrases = [
-  'CTO MoneySmarts',
+  'Computer Engineer',
   'Keyboard Enthusiast',
-  'Big Brother',
-  'Artist',
-  'Pianist',
-  'UTS Student',
-  'Leader',
-  'Nerd',
-  'Athlete',
-  'Hacker',
+  'Coffee Nerd',
   'Tinkerer',
-  'Hustler',
-  'Single'];
+  'Athlete',
+  'Painter',
+  'Co-Founder',
+  'Handyman',
+  'Hustler'
+
+];
 
 var el = document.querySelector('.text');
 var fx = new TextScramble(el);
